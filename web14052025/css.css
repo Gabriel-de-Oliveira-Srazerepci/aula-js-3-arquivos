@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    background-color: #fff;
+}
+button{
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: larger;
+    border-radius: 15px;
+    padding: 10px;
+}
+form{
+    text-align: ;
+    background-color: silver;
+    padding: 15px;
+    font-family: cursive;
+    display: flexbox;
+    min-width: 30%;
+    min-height: 30%;
+    width: auto;
+    min-height: auto;
+}
